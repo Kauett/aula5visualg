@@ -1,0 +1,15 @@
+Algoritmo "Calculo de raiz"
+
+Var
+NP,N2,RN:real
+
+Inicio
+Escreva("Digite um número positivo e maior que zero:")
+leia(NP)
+N2<- NP*NP
+RN<- RaizQ (NP)
+Escreva("O valor ao quadrado é",N2)
+leia(N2)
+Escreva("A raiz do número é:",RN)
+leia(RN)
+Fimalgoritmo
